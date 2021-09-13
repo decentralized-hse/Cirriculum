@@ -4,6 +4,8 @@
 
 Чат курса https://t.me/joinchat/TKezuPDKeJZo0Uzn
 
+YouTube https://www.youtube.com/channel/UCUPGUgu7zFdxiuXN4s_DLWQ/videos
+
 * Криптография - гарантируем целостность пересылаемых данных и многое другое.
 	TLS 		HTTP, SMTP
 	Merkle trees 	BitTorrent, IPFS, DAT
