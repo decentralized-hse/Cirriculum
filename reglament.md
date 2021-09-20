@@ -15,7 +15,7 @@
   - чат Telegram для общения и анонсов https://t.me/joinchat/TKezuPDKeJZo0Uzn
   - канал YouTube для записей лекций https://www.youtube.com/channel/UCUPGUgu7zFdxiuXN4s_DLWQ/featured
 
-Лекции проводятся по Zoom.
+Лекции проводятся по Zoom https://us02web.zoom.us/j/88622500401?pwd=Y0puZjVndkxqWDBGd3hmWHBDTmxzQT09
 
 В начале курса произойдет раздача курсовых проектов, реализация которых является единственным критерием успеваемости. 
 
