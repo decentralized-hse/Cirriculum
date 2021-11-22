@@ -16,7 +16,7 @@
        неоднозначности JSON: Parsing JSON is a Minefield http://seriot.ch/projects/parsing_json.html
     4. Ragel, генератор парсеров текстовых форматов http://www.colm.net/open-source/ragel/ Баг Cloudbleed: https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/
 2. Двоичные
-    1. Protobuf  набор примитивов hhttps://developers.google.com/protocol-buffers/docs/overview#scalar
+    1. Protobuf набор примитивов https://developers.google.com/protocol-buffers/docs/overview#scalar
     сага о LEB128 https://developers.google.com/protocol-buffers/docs/encoding#structure
     2. Thrift
     3. Cap’n Proto https://capnproto.org
