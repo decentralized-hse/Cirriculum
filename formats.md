@@ -16,11 +16,11 @@
        неоднозначности JSON: Parsing JSON is a Minefield http://seriot.ch/projects/parsing_json.html
     4. Ragel, генератор парсеров текстовых форматов http://www.colm.net/open-source/ragel/ Баг Cloudbleed: https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/
 2. Двоичные
-    0. Protobuf  набор примитивов hhttps://developers.google.com/protocol-buffers/docs/overview#scalar
+    1. Protobuf  набор примитивов hhttps://developers.google.com/protocol-buffers/docs/overview#scalar
     сага о LEB128 https://developers.google.com/protocol-buffers/docs/encoding#structure
-    1. Thrift
-    2. Cap’n Proto https://capnproto.org
-    3. FlatBuffers работа над ошибками от Google https://google.github.io/flatbuffers/flatbuffers_internals.html
+    2. Thrift
+    3. Cap’n Proto https://capnproto.org
+    4. FlatBuffers работа над ошибками от Google https://google.github.io/flatbuffers/flatbuffers_internals.html
 3. Гарри Поттер и кошмары Unicode
-    карта BMP https://unicode.org/roadmaps/bmp/
-    статистика по исользованию не-BMP в реале http://replicated.cc/concepts/unicode (примерно 0 до emoji, чуть больше теперь)
+    1. карта BMP https://unicode.org/roadmaps/bmp/
+    2. статистика по исользованию не-BMP в реале http://replicated.cc/concepts/unicode (примерно 0 до emoji, чуть больше теперь)
