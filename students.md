@@ -8,4 +8,6 @@ learn.decentralized.systems@gmail.com
  3. @TurtlePU / Pavel Sokolov
  4. Chebarykov Pavel
  5. @goozlike / Nikita Borisov
- 6. Gleb Vishnevsky
+ 6. Svyatoslav Krasnov (@jellythefish)
+ 7. Vishnevsky Gleb (twice)
+ 8. Shibanin George
