@@ -2,5 +2,5 @@
 
  1. Alexey Sokolovskiy
  2. Kruglov Pavel
- 2. Shibanin George
+ 3. Shibanin George
 
