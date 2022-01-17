@@ -11,3 +11,4 @@ learn.decentralized.systems@gmail.com
  6. Svyatoslav Krasnov (@jellythefish)
  7. Vishnevsky Gleb (twice)
  8. Shibanin George
+ 9. Anton Udovichenko
