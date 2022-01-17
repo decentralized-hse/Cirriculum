@@ -7,3 +7,4 @@ learn.decentralized.systems@gmail.com
  2. Kruglov Pavel
  3. @TurtlePU / Pavel Sokolov
  4. Chebarykov Pavel
+ 5. @goozlike / Nikita Borisov
