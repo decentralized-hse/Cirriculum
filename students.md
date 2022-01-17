@@ -6,4 +6,6 @@ learn.decentralized.systems@gmail.com
  1. Alexey Sokolovskiy
  2. Kruglov Pavel
  3. @TurtlePU / Pavel Sokolov
- 4. Svyatoslav Krasnov (@jellythefish)
+ 4. Chebarykov Pavel
+ 5. @goozlike / Nikita Borisov
+ 6. Svyatoslav Krasnov (@jellythefish)
