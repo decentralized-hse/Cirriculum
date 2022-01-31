@@ -12,3 +12,5 @@ learn.decentralized.systems@gmail.com
  7. Vishnevsky Gleb (twice)
  8. Shibanin George
  9. Anton Udovichenko
+10. Ivan Lebedev
+
