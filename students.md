@@ -19,4 +19,5 @@ learn.decentralized.systems@gmail.com
 Lecturer: Victor Grishchenkp
 learn.decentralized.systems@gmail.com
 
-1. Denis Surkov (@denisSurkov)
+ 1. Ilya Zhdanov
+ 2. Denis Surkov (@denisSurkov)
