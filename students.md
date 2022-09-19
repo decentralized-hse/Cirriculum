@@ -13,3 +13,4 @@ learn.decentralized.systems@gmail.com
  8. Shibanin George
  9. Anton Udovichenko
 10. Ilya Zhdanov
+11. Artem Konovalov
