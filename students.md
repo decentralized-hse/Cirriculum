@@ -21,4 +21,5 @@ learn.decentralized.systems@gmail.com
  1. Ilya Zhdanov
  2. Denis Surkov (@denisSurkov)
  3. Ivan Lebedev
- 4. Knyazev Igor
+ 4. Artem Konovalov
+ 5. Knyazev Igor
