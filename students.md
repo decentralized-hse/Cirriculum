@@ -1,4 +1,4 @@
-#   2022 WINTER STUDENTS
+#   2022 AUTUMN STUDENTS
 
 Lecturer: Victor Grishchenko
 learn.decentralized.systems@gmail.com
@@ -13,3 +13,4 @@ learn.decentralized.systems@gmail.com
  8. Shibanin George
  9. Anton Udovichenko
 10. Ilya Zhdanov
+11. Knyazev Igor
