@@ -12,5 +12,13 @@ learn.decentralized.systems@gmail.com
  7. Vishnevsky Gleb (twice)
  8. Shibanin George
  9. Anton Udovichenko
-10. Ilya Zhdanov
-11. Artem Konovalov
+
+#   2022 FALL STUDENTS
+
+Lecturer: Victor Grishchenkp
+learn.decentralized.systems@gmail.com
+
+ 1. Ilya Zhdanov
+ 2. Denis Surkov (@denisSurkov)
+ 3. Ivan Lebedev
+ 4. Artem Konovalov
