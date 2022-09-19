@@ -10,3 +10,4 @@ learn.decentralized.systems@gmail.com
  5. Knyazev Igor
  6. Matvey Ilichev
  7. Kosov Grigorii
+ 8. Moshkov Daniil
